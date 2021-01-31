@@ -644,3 +644,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 650,0,ubisoft-uplay-savegames.s3.amazonaws.com,1,1607704547,1610849376,"Added from Query Log"
 651,0,energetic3d.aliexpress.com,1,1611237317,1611237317,
 652,0,tracking.pb.com,1,1611603375,1611603375,"Added from Query Log"
+653,0,heartbeat.dm.origin.com,1,1612060774,1612060774,"Added from Query Log"
