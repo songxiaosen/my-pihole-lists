@@ -1,7 +1,3 @@
-192.168.1.1 udm.olson
-192.168.1.123 pihole2.olson
-192.168.1.234 pihole.olson
-10.10.10.56 octopi.olson
 10.10.10.56 octopi.olson
 192.168.1.234 pihole.olson
 192.168.1.123 pihole2.olson
